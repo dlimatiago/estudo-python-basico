@@ -1,0 +1,733 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4def4d2e-d84d-4e1f-a0ee-3db60f12c256" name="Default Changelist" comment="Módulo de moedas">
+      <change beforePath="$PROJECT_DIR$/modulos/teste.py" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>eve</find>
+    </findStrings>
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="ONTO" value="refs/heads/master" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Tiago Lima &lt;tiaguinho.alima@gmail.com&gt;" />
+        <option value="ti" />
+      </list>
+    </option>
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/modulos" />
+    <option name="ADD_SUFFIX_TO_CHERRY_PICKS_OF_PUBLISHED_COMMITS" value="false" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 055 - Maior e menor da sequência.py" />
+        <option value="$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 066 - Vários números com flag.py" />
+        <option value="$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 067 - Tabuada v3.0.py" />
+        <option value="$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 068 - Jogo do par ou ímpar.py" />
+        <option value="$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 069 - Análise de dados do grupo.py" />
+        <option value="$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 021 - Tocando um MP3.py" />
+        <option value="$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 070 - Estatísticas em produtos.py" />
+        <option value="$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 071 - Caixa eletrônico.py" />
+        <option value="$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 027 - Primeiro e último nome de uma pessoa.py" />
+        <option value="$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 072 - Número por extenso.py" />
+        <option value="$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 073 - Tuplas com times de futebol.py" />
+        <option value="$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 074 - Maior e menor valorer em Tuplas.py" />
+        <option value="$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 075 - Análise de dados em uma Tupla.py" />
+        <option value="$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 075 - Análise de dados em uma Tupla 2.py" />
+        <option value="$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 076 - Lista de Preços com Tupla.py" />
+        <option value="$PROJECT_DIR$/Exercícios Aula em vídeo/Ex - 077 - Contando vogais em Tupla.py" />
+        <option value="$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 078 - Maior e Menor valores na Lista.py" />
+        <option value="$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 079 - Valores únicos em uma Lista.py" />
+        <option value="$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 080 - Lista ordenada sem repetições.py" />
+        <option value="$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 081 - Extraindo dados de uma Lista.py" />
+        <option value="$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 082 - Dividindo valores em várias listas.py" />
+        <option value="$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 083 - Validando expressões matemáticas.py" />
+        <option value="$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 084 - Lista composta e análise de dados.py" />
+        <option value="$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 085 - Listas com pares e ímpares.py" />
+        <option value="$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 086 - Matriz em Python.py" />
+        <option value="$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 087 - Mais sobre Matriz em Python.py" />
+        <option value="$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 088 - Palpites para a Mega Sena.py" />
+        <option value="$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 089 - Boletim com listas compostas.py" />
+        <option value="$PROJECT_DIR$/Aulas e exercícios Udemy/Aula.py" />
+        <option value="$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 090 - Dicionário em Python.py" />
+        <option value="$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 091 - Jogo de Dados em Python.py" />
+        <option value="$PROJECT_DIR$/curso-aula_em_video/Ex 092 - Cadastro de Trabalhador em Python.py" />
+        <option value="$PROJECT_DIR$/curso-aula_em_video/Ex 094 - Unindo dicionários e listas.py" />
+        <option value="$PROJECT_DIR$/curso-aula_em_video/Ex 093 - Cadastro de Jogador de Futebol.py" />
+        <option value="$PROJECT_DIR$/curso-aula_em_video/Ex 95 - Aprimorando os Dicionários.py" />
+        <option value="$PROJECT_DIR$/curso-aula_em_video/mydefs.py" />
+        <option value="$PROJECT_DIR$/curso-aula_em_video/Ex 096 - Função que calcula área.py" />
+        <option value="$PROJECT_DIR$/curso-aula_em_video/Ex 097 - Um print especial.py" />
+        <option value="$PROJECT_DIR$/curso-aula_em_video/Ex 098 - Função de Contador.py" />
+        <option value="$PROJECT_DIR$/curso-aula_em_video/Ex 099 - Função que descobre o maior.py" />
+        <option value="$PROJECT_DIR$/curso-aula_em_video/Ex 100 - Funções para sortear e somar.py" />
+        <option value="$PROJECT_DIR$/curso-aula_em_video/Ex 101 - Função para votação.py" />
+        <option value="$PROJECT_DIR$/curso-aula_em_video/Ex 102 - Função para fatorial.py" />
+        <option value="$PROJECT_DIR$/curso-aula_em_video/Ex 103 - Ficha do Jogador.py" />
+        <option value="$PROJECT_DIR$/curso-aula_em_video/Ex 104 - Validando entrada de dados em Python.py" />
+        <option value="$PROJECT_DIR$/curso-aula_em_video/Ex 105 - Analisando e gerando Dicionários.py" />
+        <option value="$PROJECT_DIR$/curso-aula_em_video/Ex 106 - Sistema interativo de ajuda em Python.py" />
+        <option value="$PROJECT_DIR$/modulos/moedas.py" />
+        <option value="$PROJECT_DIR$/my_modules/moedas.py" />
+        <option value="$PROJECT_DIR$/curso-aula_em_video/Ex 107 - Exercitando módulos em Python.py" />
+        <option value="$PROJECT_DIR$/modulos/moeda.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="35" />
+    <option name="y" value="29" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Buildout</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>Internationalization</id>
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyNoneFunctionAssignmentInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="curso-python" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="curso-python" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="curso-aula_em_video" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="curso-python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="curso-python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="curso-python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="curso-python" type="462c0819:PsiDirectoryNode" />
+              <item name="modulos" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Ex 107 - Exercitando módulos em Python">
+    <configuration name="Ex 103 - Ficha do Jogador" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Curso de Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/curso-aula_em_video" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso-aula_em_video/Ex 103 - Ficha do Jogador.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ex 104 - Validando entrada de dados em Python" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Curso de Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/curso-aula_em_video" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso-aula_em_video/Ex 104 - Validando entrada de dados em Python.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ex 105 - Analisando e gerando Dicionários" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Curso de Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/curso-aula_em_video" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso-aula_em_video/Ex 105 - Analisando e gerando Dicionários.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ex 106 - Sistema interativo de ajuda em Python" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Curso de Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/curso-aula_em_video" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso-aula_em_video/Ex 106 - Sistema interativo de ajuda em Python.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ex 107 - Exercitando módulos em Python" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Curso de Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/curso-aula_em_video" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso-aula_em_video/Ex 107 - Exercitando módulos em Python.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Ex 103 - Ficha do Jogador" />
+      <item itemvalue="Python.Ex 104 - Validando entrada de dados em Python" />
+      <item itemvalue="Python.Ex 105 - Analisando e gerando Dicionários" />
+      <item itemvalue="Python.Ex 106 - Sistema interativo de ajuda em Python" />
+      <item itemvalue="Python.Ex 107 - Exercitando módulos em Python" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Ex 107 - Exercitando módulos em Python" />
+        <item itemvalue="Python.Ex 106 - Sistema interativo de ajuda em Python" />
+        <item itemvalue="Python.Ex 105 - Analisando e gerando Dicionários" />
+        <item itemvalue="Python.Ex 104 - Validando entrada de dados em Python" />
+        <item itemvalue="Python.Ex 103 - Ficha do Jogador" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4def4d2e-d84d-4e1f-a0ee-3db60f12c256" name="Default Changelist" comment="" />
+      <created>1585860541293</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585860541293</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Uso de dicionário para guardar dados de um trabalhador">
+      <created>1590864290949</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590864290949</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Armazenando informações de um jogador em um dicionário.">
+      <created>1590953095768</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590953095768</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Guardando n dicionários dentro de uma lista">
+      <created>1590961682184</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590961682184</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Melhorando o o exercício 93">
+      <created>1590968855675</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1590968855675</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Função que mostra a área de um terreno">
+      <created>1591295747949</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1591295747949</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Função que personaliza uma mensagem por cor e formatação.">
+      <created>1591300685103</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1591300685103</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Adicionado a função de exibir separadores. Troca do método capitalize() para title(). Menu ampliado e modificado">
+      <created>1591301820838</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1591301820838</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Faz a contagem mediante a 3 parâmetros: inicio, fim e passo">
+      <created>1591306220063</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1591306220077</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Função para achar o maior valor entre N valores dados">
+      <created>1591307615131</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1591307615132</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Função que sorteia números pseudoaleatórios e põe numa lista e outra função que soma os pares dessa lista">
+      <created>1591310626112</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1591310626112</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Função que diz a possibilidade de voto a partir do input do ano de nascimento">
+      <created>1591396407532</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1591396407532</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Adicionado &quot;Fim do programa&quot;">
+      <created>1591396489975</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1591396489975</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Função que calcula o fatorial de um número mostrando ou não a conta">
+      <created>1591642580189</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1591642580189</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Função que recebe o nome e número de gols de um jogador">
+      <created>1591644367556</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1591644367556</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Função leiaint() que retorna um número inteiro e caso não, exibe uma mensagem de erro até a entrada correta.">
+      <created>1591726584711</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1591726584711</updated>
+    </task>
+    <task id="LOCAL-00016" summary="função que recebe várias notas e retorna um dicionário com várias informações">
+      <created>1591728737723</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1591728737723</updated>
+    </task>
+    <task id="LOCAL-00017" summary="mini-sistema que usa a função help para passar o manual da função ou módulo requerido pelo usuário.">
+      <created>1591742713856</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1591742713856</updated>
+    </task>
+    <task id="LOCAL-00018" summary="troca da chamada do modulo">
+      <created>1591822292356</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1591822292357</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.497545" visible="true" weight="0.25189108" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.502455" side_tool="true" weight="0.23676248" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" x="0" y="91" width="1366" height="546" id="Run" order="2" type="WINDOWED" weight="1.0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5351882" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.83797055" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.5515548" />
+      <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" weight="0.32980332" />
+      <window_info anchor="right" id="R Packages" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.22692889" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.5008183" side_tool="true" weight="0.22087745" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" x="0" y="106" width="1366" height="546" id="Run" order="2" type="WINDOWED" weight="1.0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5351882" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3289689" />
+      <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="R Packages" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Uso de dicionário para guardar dados de um trabalhador" />
+    <MESSAGE value="Armazenando informações de um jogador em um dicionário." />
+    <MESSAGE value="Guardando n dicionários dentro de uma lista" />
+    <MESSAGE value="Melhorando o o exercício 93" />
+    <MESSAGE value="Função que mostra a área de um terreno" />
+    <MESSAGE value="Função que personaliza uma mensagem por cor e formatação." />
+    <MESSAGE value="Adicionado a função de exibir separadores. Troca do método capitalize() para title(). Menu ampliado e modificado" />
+    <MESSAGE value="Faz a contagem mediante a 3 parâmetros: inicio, fim e passo" />
+    <MESSAGE value="Função para achar o maior valor entre N valores dados" />
+    <MESSAGE value="Função que sorteia números pseudoaleatórios e põe numa lista e outra função que soma os pares dessa lista" />
+    <MESSAGE value="Função que diz a possibilidade de voto a partir do input do ano de nascimento" />
+    <MESSAGE value="Adicionado &quot;Fim do programa&quot;" />
+    <MESSAGE value="Função que calcula o fatorial de um número mostrando ou não a conta" />
+    <MESSAGE value="Função que recebe o nome e número de gols de um jogador" />
+    <MESSAGE value="Função leiaint() que retorna um número inteiro e caso não, exibe uma mensagem de erro até a entrada correta." />
+    <MESSAGE value="função que recebe várias notas e retorna um dicionário com várias informações" />
+    <MESSAGE value="sub" />
+    <MESSAGE value="mini-sistema que usa a função help para passar o manual da função ou módulo requerido pelo usuário." />
+    <MESSAGE value="troca da chamada do modulo" />
+    <MESSAGE value="Módulo de moedas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Módulo de moedas" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 071 - Caixa eletrônico.py" />
+    <entry file="file://$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 027 - Primeiro e último nome de uma pessoa.py" />
+    <entry file="file://$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 072 - Número por extenso.py" />
+    <entry file="file://$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 073 - Tuplas com times de futebol.py" />
+    <entry file="file://$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 074 - Maior e menor valorer em Tuplas.py" />
+    <entry file="file://$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 075 - Análise de dados em uma Tupla.py" />
+    <entry file="file://$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 075 - Análise de dados em uma Tupla 2.py" />
+    <entry file="file://$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 076 - Lista de Preços com Tupla.py" />
+    <entry file="file://$PROJECT_DIR$/Exercícios Aula em vídeo/Ex - 077 - Contando vogais em Tupla.py" />
+    <entry file="file://$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 016 - Quebrando um número.py" />
+    <entry file="file://$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 078 - Maior e Menor valores na Lista.py" />
+    <entry file="file://$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 079 - Valores únicos em uma Lista.py" />
+    <entry file="file://$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 081 - Extraindo dados de uma Lista.py" />
+    <entry file="file://$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 082 - Dividindo valores em várias listas.py" />
+    <entry file="file://$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 080 - Lista ordenada sem repetições.py" />
+    <entry file="file://$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 083 - Validando expressões matemáticas.py" />
+    <entry file="file://$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 084 - Lista composta e análise de dados.py" />
+    <entry file="file://$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 085 - Listas com pares e ímpares.py" />
+    <entry file="file://$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 086 - Matriz em Python.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32/Lib/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="247" selection-start-line="247" selection-end-line="247" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 088 - Palpites para a Mega Sena.py" />
+    <entry file="file://$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 087 - Mais sobre Matriz em Python.py" />
+    <entry file="file://$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 089 - Boletim com listas compostas.py" />
+    <entry file="file://$PROJECT_DIR$/Aulas e exercícios Udemy/Aula.py" />
+    <entry file="file://$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 090 - Dicionário em Python.py" />
+    <entry file="file://$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 091 - Jogo de Dados em Python.py" />
+    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex 091 - Jogo de Dados em Python.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="39" column="3" lean-forward="true" selection-start-line="39" selection-start-column="3" selection-end-line="39" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex 090 - Dicionário em Python.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex 092 - Cadastro de Trabalhador em Python.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="309" selection-start-line="309" selection-end-line="309" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex 094 - Unindo dicionários e listas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="511">
+          <caret line="49" column="7" selection-start-line="49" selection-start-column="7" selection-end-line="49" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex 093 - Cadastro de Jogador de Futebol.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="511">
+          <caret line="20" lean-forward="true" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex 95 - Aprimorando os Dicionários.py" />
+    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex 089 - Boletim com listas compostas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-156" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex 095 - Aprimorando os Dicionários.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/mydefs.py" />
+    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex 096 - Função que calcula área.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex 097 - Um print especial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="30" column="31" lean-forward="true" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex 098 - Função de Contador.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex 099 - Função que descobre o maior.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" column="23" lean-forward="true" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex 100 - Funções para sortear e somar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex 101 - Função para votação.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex 102 - Função para fatorial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex 103 - Ficha do Jogador.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex 104 - Validando entrada de dados em Python.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex 105 - Analisando e gerando Dicionários.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="27" column="12" lean-forward="true" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex 106 - Sistema interativo de ajuda em Python.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulos/moedas.py" />
+    <entry file="file://$PROJECT_DIR$/my_modules/moedas.py" />
+    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex 107 - Exercitando módulos em Python.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="33" selection-start-column="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulos/moeda.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <last-edited>Aula 1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
