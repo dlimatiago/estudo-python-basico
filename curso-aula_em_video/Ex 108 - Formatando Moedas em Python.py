@@ -13,3 +13,4 @@ print(f'    Com aumento de {pctg}%, {form} passa a valer {m.moeda(rising)}')
 print(f'    Com a subtração de {pctg}%, {form} passa a valer {m.moeda(down)}')
 print(f'    Temos também que o dobro de {form} é {m.moeda(d)}')
 print(f'    E sua metade é {m.moeda(met)}')
+
