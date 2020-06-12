@@ -4,9 +4,7 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4def4d2e-d84d-4e1f-a0ee-3db60f12c256" name="Default Changelist" comment="Módulo de moedas">
-      <change afterPath="$PROJECT_DIR$/curso-aula_em_video/Ex 108 - Formatando Moedas em Python.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="4def4d2e-d84d-4e1f-a0ee-3db60f12c256" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modulos/moeda.py" beforeDir="false" afterPath="$PROJECT_DIR$/modulos/moeda.py" afterDir="false" />
     </list>
@@ -19,19 +17,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex 108 - Formatando Moedas em Python.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/modulos/moeda.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="50" column="28" selection-start-line="50" selection-start-column="28" selection-end-line="50" selection-end-column="28" />
+            <state relative-caret-position="511">
+              <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
             </state>
           </provider>
         </entry>
@@ -67,7 +56,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 066 - Vários números com flag.py" />
         <option value="$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 067 - Tabuada v3.0.py" />
         <option value="$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 068 - Jogo do par ou ímpar.py" />
         <option value="$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 069 - Análise de dados do grupo.py" />
@@ -116,8 +104,9 @@
         <option value="$PROJECT_DIR$/modulos/moedas.py" />
         <option value="$PROJECT_DIR$/my_modules/moedas.py" />
         <option value="$PROJECT_DIR$/curso-aula_em_video/Ex 107 - Exercitando módulos em Python.py" />
-        <option value="$PROJECT_DIR$/modulos/moeda.py" />
         <option value="$PROJECT_DIR$/curso-aula_em_video/Ex 108 - Formatando Moedas em Python.py" />
+        <option value="$PROJECT_DIR$/modulos/teste.py" />
+        <option value="$PROJECT_DIR$/modulos/moeda.py" />
       </list>
     </option>
   </component>
@@ -218,27 +207,6 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.Ex 108 - Formatando Moedas em Python">
-    <configuration name="Ex 105 - Analisando e gerando Dicionários" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Curso de Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/curso-aula_em_video" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso-aula_em_video/Ex 105 - Analisando e gerando Dicionários.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="Ex 106 - Sistema interativo de ajuda em Python" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Curso de Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -323,20 +291,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="teste" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Curso de Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modulos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modulos/teste.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.Ex 105 - Analisando e gerando Dicionários" />
       <item itemvalue="Python.Ex 106 - Sistema interativo de ajuda em Python" />
       <item itemvalue="Python.Ex 107 - Exercitando módulos em Python" />
       <item itemvalue="Python.Ex 108 - Formatando Moedas em Python" />
       <item itemvalue="Python.moeda" />
+      <item itemvalue="Python.teste" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.Ex 108 - Formatando Moedas em Python" />
+        <item itemvalue="Python.teste" />
         <item itemvalue="Python.moeda" />
         <item itemvalue="Python.Ex 107 - Exercitando módulos em Python" />
         <item itemvalue="Python.Ex 106 - Sistema interativo de ajuda em Python" />
-        <item itemvalue="Python.Ex 105 - Analisando e gerando Dicionários" />
       </list>
     </recent_temporary>
   </component>
@@ -477,7 +466,21 @@
       <option name="project" value="LOCAL" />
       <updated>1591822292357</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Adicionando mais uma função no módulo. A função recebe um valor e devolve formatada EX: R$1.500,50">
+      <created>1591913838808</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1591913838808</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Programa que chama uma função que formata valor de moeda">
+      <created>1591913995916</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1591913995916</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TodoView">
@@ -493,7 +496,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.497545" visible="true" weight="0.17927383" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.497545" visible="true" weight="0.17927383" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.502455" side_tool="true" weight="0.23676248" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -564,10 +567,11 @@
     <MESSAGE value="mini-sistema que usa a função help para passar o manual da função ou módulo requerido pelo usuário." />
     <MESSAGE value="troca da chamada do modulo" />
     <MESSAGE value="Módulo de moedas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Módulo de moedas" />
+    <MESSAGE value="Adicionando mais uma função no módulo. A função recebe um valor e devolve formatada EX: R$1.500,50" />
+    <MESSAGE value="Programa que chama uma função que formata valor de moeda" />
+    <option name="LAST_COMMIT_MESSAGE" value="Programa que chama uma função que formata valor de moeda" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 072 - Número por extenso.py" />
     <entry file="file://$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 073 - Tuplas com times de futebol.py" />
     <entry file="file://$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 074 - Maior e menor valorer em Tuplas.py" />
     <entry file="file://$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 075 - Análise de dados em uma Tupla.py" />
@@ -746,17 +750,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modulos/moeda.py">
+    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex 108 - Formatando Moedas em Python.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="50" column="28" selection-start-line="50" selection-start-column="28" selection-end-line="50" selection-end-column="28" />
+        <state relative-caret-position="416">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex 108 - Formatando Moedas em Python.py">
+    <entry file="file://$PROJECT_DIR$/modulos/teste.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulos/moeda.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        <state relative-caret-position="511">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
         </state>
       </provider>
     </entry>
