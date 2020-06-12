@@ -48,8 +48,21 @@ def moeda(value=0, cifra='R$'):
     if len(decimal) > 2:
         decimal = round(float(decimal) / 10 ** len(decimal), 2)
         decimal = str(decimal)[2:]
-    elif len(decimal) == 1:
+    if len(decimal) == 1:
         decimal += '0'
 # Juntando as partes formatadas
     converted = cifra + integer + ',' + decimal
     return converted
+
+
+def resumo(value=0, raise_pctg=10, reduce_pctg=5):
+    print('-'*40)
+    print('ANALISE DO VALOR'.center(40))
+    print('-'*40)
+
+    print(f'Preço analisado:    \t{moeda(value)}')
+    print(f'Dobro do preço:     \t{dobro(value)}')
+    print(f'Metade do preço:    \t{metade(value)}')
+    print(f'{raise_pctg}% de aumento:       \t{aumentar(value, raise_pctg)}')
+    print(f'{reduce_pctg}% de redução:      \t{diminuir(value, reduce_pctg)}')
+    print('-'*40)
