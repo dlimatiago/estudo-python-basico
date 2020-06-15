@@ -1,17 +1,3 @@
-def menu():
-    """
-    --> Função que mostra um menu de cadastramento com opções
-    :return: sem retorno
-    """
-    import cor as c
-    print('▬' * 48)
-    print(f"\t\t\t{c.cores('Sistema de Cadastramento', 'ciano')}")
-    print('▬' * 48)
-    print(f'{c.cores("1", "blue")} {"•"*21} {c.cores("✎ Cadastrar nova pessoa", "yellow")}\n'
-          f'{c.cores("2", "red")} {"•"*21} {c.cores("≣ Listar cadastros", "yellow")}')
-    print('▬' * 48)
-
-
 def leiaint(msg):
     while True:
         try:
@@ -44,7 +30,8 @@ def mostrar_cadastros():
     --> Função abre um arquivo e lista os nomes e idade na ordem de cadastramento
     :return: Sem retorno
     """
-    import cor as c
+    from interface import inter as c
+
     ler = open('cadastrados.txt')
     # Criando o cabeçalho da parte dos cadastrados
     print(c.cores('▄' * 60, 'magenta'))
@@ -59,7 +46,6 @@ def mostrar_cadastros():
         for e in dados:
             if e.isalpha():
                 print(e)
-
     ler.close()
 
 

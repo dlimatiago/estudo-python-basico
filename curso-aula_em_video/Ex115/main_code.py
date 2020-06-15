@@ -1,7 +1,6 @@
-import cadastro as cd
-import cor as c
-
-cd.menu()
+from interface import inter as c
+from cadastramento import cadastro as cd
+c.menu()
 while True:
     try:
         opc = int(input('Digite a opção >>> '))

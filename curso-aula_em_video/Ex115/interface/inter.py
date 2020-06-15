@@ -1,3 +1,17 @@
+def menu():
+    """
+    --> Função que mostra um menu de cadastramento com opções
+    :return: sem retorno
+    """
+
+    print('▬' * 48)
+    print(f"\t\t\t{cores('Sistema de Cadastramento', 'ciano')}")
+    print('▬' * 48)
+    print(f'{cores("1", "blue")} {"•"*21} {cores("✎ Cadastrar nova pessoa", "yellow")}\n'
+          f'{cores("2", "red")} {"•"*21} {cores("≣ Listar cadastros", "yellow")}')
+    print('▬' * 48)
+
+
 def cores(texto='', cor='close'):
     """
     --> Adiciona cores a uma string
