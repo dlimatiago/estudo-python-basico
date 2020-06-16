@@ -24,6 +24,8 @@
         <list>
           <option value="cor" />
           <option value="cadastro" />
+          <option value="interface" />
+          <option value="cadastramento" />
         </list>
       </option>
     </inspection_tool>

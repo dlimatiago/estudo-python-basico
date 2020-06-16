@@ -4,7 +4,7 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4def4d2e-d84d-4e1f-a0ee-3db60f12c256" name="Default Changelist" comment="módulo de cor">
+    <list default="true" id="4def4d2e-d84d-4e1f-a0ee-3db60f12c256" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -17,39 +17,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex 115a - Criando um menu em Python/main_code.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-              <folding>
-                <element signature="e#0#21#0" expanded="true" />
-                <element signature="e#61#372#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex 115a - Criando um menu em Python/cadastro.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
-              <folding>
-                <element signature="e#21#344#0" />
-                <element signature="e#16#46#1" />
-                <element signature="e#467#826#0" />
-                <element signature="e#487#608#0" />
-                <element signature="e#482#549#1" />
-                <element signature="e#1252#1831#0" />
-                <element signature="e#1252#1282#1" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -80,26 +48,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 075 - Análise de dados em uma Tupla.py" />
-        <option value="$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 075 - Análise de dados em uma Tupla 2.py" />
-        <option value="$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 076 - Lista de Preços com Tupla.py" />
-        <option value="$PROJECT_DIR$/Exercícios Aula em vídeo/Ex - 077 - Contando vogais em Tupla.py" />
-        <option value="$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 078 - Maior e Menor valores na Lista.py" />
-        <option value="$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 079 - Valores únicos em uma Lista.py" />
-        <option value="$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 080 - Lista ordenada sem repetições.py" />
-        <option value="$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 081 - Extraindo dados de uma Lista.py" />
-        <option value="$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 082 - Dividindo valores em várias listas.py" />
-        <option value="$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 083 - Validando expressões matemáticas.py" />
-        <option value="$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 084 - Lista composta e análise de dados.py" />
-        <option value="$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 085 - Listas com pares e ímpares.py" />
-        <option value="$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 086 - Matriz em Python.py" />
-        <option value="$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 087 - Mais sobre Matriz em Python.py" />
-        <option value="$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 088 - Palpites para a Mega Sena.py" />
-        <option value="$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 089 - Boletim com listas compostas.py" />
-        <option value="$PROJECT_DIR$/Aulas e exercícios Udemy/Aula.py" />
-        <option value="$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 090 - Dicionário em Python.py" />
-        <option value="$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 091 - Jogo de Dados em Python.py" />
-        <option value="$PROJECT_DIR$/curso-aula_em_video/Ex 092 - Cadastro de Trabalhador em Python.py" />
         <option value="$PROJECT_DIR$/curso-aula_em_video/Ex 094 - Unindo dicionários e listas.py" />
         <option value="$PROJECT_DIR$/curso-aula_em_video/Ex 093 - Cadastro de Jogador de Futebol.py" />
         <option value="$PROJECT_DIR$/curso-aula_em_video/Ex 95 - Aprimorando os Dicionários.py" />
@@ -130,7 +78,27 @@
         <option value="$PROJECT_DIR$/curso-aula_em_video/Ex 115a - Criando um menu em Python/cor.py" />
         <option value="$PROJECT_DIR$/curso-aula_em_video/Ex 115a - Criando um menu em Python/cadastrados.txt" />
         <option value="$PROJECT_DIR$/curso-aula_em_video/Ex 115a - Criando um menu em Python/cadastro.py" />
+        <option value="$PROJECT_DIR$/curso-aula_em_video/Ex 115a - Criando um menu em Python/bib/cor.py" />
+        <option value="$PROJECT_DIR$/curso-aula_em_video/Ex 115a - Criando um menu em Python/bib/interface/__init__.py" />
+        <option value="$PROJECT_DIR$/curso-aula_em_video/Ex 115a - Criando um menu em Python/bib/cadastro.py" />
         <option value="$PROJECT_DIR$/curso-aula_em_video/Ex 115a - Criando um menu em Python/main_code.py" />
+        <option value="$PROJECT_DIR$/curso-aula_em_video/Ex 115a - Criando um menu em Python/bib/dados/__init__.py" />
+        <option value="$PROJECT_DIR$/curso-aula_em_video/Ex115/bib/interface/__init__.py" />
+        <option value="$PROJECT_DIR$/curso-aula_em_video/Ex115/bib/dados/__init__.py" />
+        <option value="$PROJECT_DIR$/curso-aula_em_video/Ex115/bib/cadastro.py" />
+        <option value="$PROJECT_DIR$/curso-aula_em_video/Ex115/lib/interface/__init__.py" />
+        <option value="$PROJECT_DIR$/curso-aula_em_video/Ex115/lib/interface/inter.py" />
+        <option value="$PROJECT_DIR$/curso-aula_em_video/Ex115/cadastro.py" />
+        <option value="$PROJECT_DIR$/curso-aula_em_video/Ex115/main_code.py" />
+        <option value="$PROJECT_DIR$/curso-aula_em_video/Ex115/interface/inter.py" />
+        <option value="$PROJECT_DIR$/curso-aula_em_video/Ex115/cadastramento/cadastro.py" />
+        <option value="$PROJECT_DIR$/curso-aula_em_video/ex115a/libpack/cadastro/__init__.py" />
+        <option value="$PROJECT_DIR$/curso-aula_em_video/ex115a/libpack/visual/__init__.py" />
+        <option value="$PROJECT_DIR$/curso-aula_em_video/ex115a/code_main.py" />
+        <option value="$PROJECT_DIR$/curso-aula_em_video/ex115a/teste.py" />
+        <option value="$PROJECT_DIR$/curso-aula_em_video/ex115a/cadastrados.txt" />
+        <option value="$PROJECT_DIR$/curso-aula_em_video/ex115a/libpack/visual.py" />
+        <option value="$PROJECT_DIR$/curso-aula_em_video/ex115a/libpack/cadastro.py" />
       </list>
     </option>
   </component>
@@ -170,26 +138,10 @@
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="curso-python" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-            <path>
-              <item name="curso-python" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="curso-aula_em_video" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -202,11 +154,34 @@
               <item name="curso-python" type="462c0819:PsiDirectoryNode" />
               <item name="curso-aula_em_video" type="462c0819:PsiDirectoryNode" />
             </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
             <path>
-              <item name="curso-python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="curso-python" type="462c0819:PsiDirectoryNode" />
-              <item name="curso-aula_em_video" type="462c0819:PsiDirectoryNode" />
-              <item name="Ex 115a - Criando um menu em Python" type="462c0819:PsiDirectoryNode" />
+              <item name="curso-python" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="curso-python" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="curso-aula_em_video" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="curso-python" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="curso-aula_em_video" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ex115a" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="curso-python" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="curso-aula_em_video" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ex115a" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="libpack" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -217,7 +192,16 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Tiago\Documents\curso-python\curso-aula_em_video\ex115a" />
+      <recent name="C:\Users\Tiago\Documents\curso-python\curso-aula_em_video\Ex115\cadastramento" />
+      <recent name="C:\Users\Tiago\Documents\curso-python\curso-aula_em_video\Ex115\interface" />
+      <recent name="C:\Users\Tiago\Documents\curso-python\curso-aula_em_video\Ex115" />
+      <recent name="C:\Users\Tiago\Documents\curso-python\curso-aula_em_video\Ex115\mylib\interface" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -231,8 +215,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main_code">
-    <configuration name="Ex 108 - Formatando Moedas em Python" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.cadastro (2)">
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Curso de Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -240,11 +224,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/curso-aula_em_video" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/curso-aula_em_video/ex115a/libpack/cadastro" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso-aula_em_video/Ex 108 - Formatando Moedas em Python.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso-aula_em_video/ex115a/libpack/cadastro/__init__.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -253,7 +237,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex 113 - Funções aprofundadas em Python" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="cadastro (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Curso de Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -261,11 +245,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/curso-aula_em_video" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/curso-aula_em_video/ex115a/libpack" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso-aula_em_video/Ex 113 - Funções aprofundadas em Python.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso-aula_em_video/ex115a/libpack/cadastro.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -274,7 +258,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex 114 - Site está acessível" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="code_main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Curso de Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -282,11 +266,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/curso-aula_em_video" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/curso-aula_em_video/ex115a" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso-aula_em_video/Ex 114 - Site está acessível.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso-aula_em_video/ex115a/code_main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -295,7 +279,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="cadastro" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="teste" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Curso de Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -303,11 +287,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/curso-aula_em_video/Ex 115a - Criando um menu em Python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/curso-aula_em_video/ex115a" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso-aula_em_video/Ex 115a - Criando um menu em Python/cadastro.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso-aula_em_video/ex115a/teste.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -316,7 +300,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main_code" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="visual" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Curso de Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -324,11 +308,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/curso-aula_em_video/Ex 115a - Criando um menu em Python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/curso-aula_em_video/ex115a/libpack" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso-aula_em_video/Ex 115a - Criando um menu em Python/main_code.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso-aula_em_video/ex115a/libpack/visual.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -338,19 +322,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Ex 108 - Formatando Moedas em Python" />
-      <item itemvalue="Python.Ex 113 - Funções aprofundadas em Python" />
-      <item itemvalue="Python.Ex 114 - Site está acessível" />
-      <item itemvalue="Python.cadastro" />
-      <item itemvalue="Python.main_code" />
+      <item itemvalue="Python.code_main" />
+      <item itemvalue="Python.__init__" />
+      <item itemvalue="Python.cadastro (2)" />
+      <item itemvalue="Python.teste" />
+      <item itemvalue="Python.visual" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main_code" />
-        <item itemvalue="Python.cadastro" />
-        <item itemvalue="Python.Ex 114 - Site está acessível" />
-        <item itemvalue="Python.Ex 113 - Funções aprofundadas em Python" />
-        <item itemvalue="Python.Ex 108 - Formatando Moedas em Python" />
+        <item itemvalue="Python.cadastro (2)" />
+        <item itemvalue="Python.visual" />
+        <item itemvalue="Python.teste" />
+        <item itemvalue="Python.code_main" />
+        <item itemvalue="Python.__init__" />
       </list>
     </recent_temporary>
   </component>
@@ -589,7 +573,42 @@
       <option name="project" value="LOCAL" />
       <updated>1592189515251</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="documento com as pessoas cadastradas">
+      <created>1592189566355</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1592189566355</updated>
+    </task>
+    <task id="LOCAL-00034" summary="programa principal do exercicio 115">
+      <created>1592189610965</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1592189610965</updated>
+    </task>
+    <task id="LOCAL-00035" summary="workspace.html">
+      <created>1592189670280</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1592189670280</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Rearanjando o semiprojeto">
+      <created>1592194593820</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1592194593820</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Atualizando os arquivos apos problema na modularização. Função tabela criada">
+      <created>1592272009596</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1592272009596</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TodoView">
@@ -603,15 +622,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.497545" visible="true" weight="0.25340393" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.497545" visible="true" weight="0.25718608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.502455" side_tool="true" weight="0.23676248" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
       <window_info anchor="bottom" x="0" y="91" width="1366" height="546" id="Run" order="2" type="WINDOWED" weight="1.0" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.49099836" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.55973816" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
@@ -656,10 +674,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/modulos" />
     </ignored-roots>
-    <MESSAGE value="Função que sorteia números pseudoaleatórios e põe numa lista e outra função que soma os pares dessa lista" />
-    <MESSAGE value="Função que diz a possibilidade de voto a partir do input do ano de nascimento" />
-    <MESSAGE value="Adicionado &quot;Fim do programa&quot;" />
-    <MESSAGE value="Função que calcula o fatorial de um número mostrando ou não a conta" />
     <MESSAGE value="Função que recebe o nome e número de gols de um jogador" />
     <MESSAGE value="Função leiaint() que retorna um número inteiro e caso não, exibe uma mensagem de erro até a entrada correta." />
     <MESSAGE value="função que recebe várias notas e retorna um dicionário com várias informações" />
@@ -678,37 +692,16 @@
     <MESSAGE value="Função moeda precisou ser apagada. Deixei o código como comment pra ter só como exemplo" />
     <MESSAGE value="Aprimoramento da função do exercicio 104 com tratamento de erro e a criação de outra função que valida numeros reais" />
     <MESSAGE value="Acessando um site e dizendo se está acessivel ou não" />
-    <MESSAGE value="workspace.html" />
     <MESSAGE value="módulo de cor" />
     <MESSAGE value="modulo responsavel por cadastramento, leitura de cadastro entre outros" />
-    <option name="LAST_COMMIT_MESSAGE" value="modulo responsavel por cadastramento, leitura de cadastro entre outros" />
+    <MESSAGE value="documento com as pessoas cadastradas" />
+    <MESSAGE value="programa principal do exercicio 115" />
+    <MESSAGE value="workspace.html" />
+    <MESSAGE value="Rearanjando o semiprojeto" />
+    <MESSAGE value="Atualizando os arquivos apos problema na modularização. Função tabela criada" />
+    <option name="LAST_COMMIT_MESSAGE" value="Atualizando os arquivos apos problema na modularização. Função tabela criada" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 080 - Lista ordenada sem repetições.py" />
-    <entry file="file://$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 083 - Validando expressões matemáticas.py" />
-    <entry file="file://$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 084 - Lista composta e análise de dados.py" />
-    <entry file="file://$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 085 - Listas com pares e ímpares.py" />
-    <entry file="file://$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 086 - Matriz em Python.py" />
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32/Lib/random.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="247" selection-start-line="247" selection-end-line="247" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 088 - Palpites para a Mega Sena.py" />
-    <entry file="file://$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 087 - Mais sobre Matriz em Python.py" />
-    <entry file="file://$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 089 - Boletim com listas compostas.py" />
-    <entry file="file://$PROJECT_DIR$/Aulas e exercícios Udemy/Aula.py" />
-    <entry file="file://$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 090 - Dicionário em Python.py" />
-    <entry file="file://$PROJECT_DIR$/Exercícios Aula em vídeo/Ex 091 - Jogo de Dados em Python.py" />
-    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex 091 - Jogo de Dados em Python.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="39" column="3" lean-forward="true" selection-start-line="39" selection-start-column="3" selection-end-line="39" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex 090 - Dicionário em Python.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
@@ -730,13 +723,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex 094 - Unindo dicionários e listas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="511">
-          <caret line="49" column="7" selection-start-line="49" selection-start-column="7" selection-end-line="49" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex 093 - Cadastro de Jogador de Futebol.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="511">
@@ -750,25 +736,11 @@
         <state relative-caret-position="-156" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex 095 - Aprimorando os Dicionários.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/curso-aula_em_video/mydefs.py" />
     <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex 096 - Função que calcula área.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex 098 - Função de Contador.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
@@ -779,28 +751,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex 100 - Funções para sortear e somar.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex 102 - Função para fatorial.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/my_modules/moedas.py" />
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/modulos/teste.py" />
     <entry file="file://$PROJECT_DIR$/modulos/moeda.py" />
     <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex 109 - Formatando Moedas em Python v2.0.py">
@@ -856,20 +807,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex 103 - Ficha do Jogador.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex 101 - Função para votação.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex 104 - Validando entrada de dados em Python.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
@@ -884,28 +821,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex 105 - Analisando e gerando Dicionários.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="534">
-          <caret line="27" column="12" lean-forward="true" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex 097 - Um print especial.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-127">
           <caret line="32" column="23" lean-forward="true" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex 115a - Criando um menu em Python/cor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
-          <folding>
-            <element signature="e#38#104#1" />
-            <element signature="e#61#284#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -916,32 +835,139 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex 115a - Criando um menu em Python/main_code.py">
+    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex 115a - Criando um menu em Python/bib/cor.py" />
+    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex115/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex115/bib/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex115/bib/interface/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex115/bib/dados/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex115/lib/interface/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex115/main_code.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex115/interface/inter.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex115/cadastramento/cadastro.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/ex115a/libpack/cadastro/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/ex115a/libpack/visual/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex 098 - Função de Contador.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex 100 - Funções para sortear e somar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex 101 - Função para votação.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex 102 - Função para fatorial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex 103 - Ficha do Jogador.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex 105 - Analisando e gerando Dicionários.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="27" column="12" lean-forward="true" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/ex115a/teste.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="100" selection-start-line="2" selection-start-column="100" selection-end-line="2" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/ex115a/cadastrados.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex 094 - Unindo dicionários e listas.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="416">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <caret line="49" column="7" selection-start-line="49" selection-start-column="7" selection-end-line="49" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex 095 - Aprimorando os Dicionários.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-182">
+          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/ex115a/libpack/cadastro.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="61" column="2" selection-start-line="61" selection-start-column="2" selection-end-line="61" selection-end-column="2" />
           <folding>
-            <element signature="e#0#21#0" expanded="true" />
-            <element signature="e#61#372#0" />
+            <element signature="e#22#383#0" />
+            <element signature="e#423#828#0" />
+            <element signature="e#423#653#1" />
+            <element signature="e#1379#1728#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex 115a - Criando um menu em Python/cadastrados.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/Ex 115a - Criando um menu em Python/cadastro.py">
+    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/ex115a/libpack/visual.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+        <state relative-caret-position="381">
+          <caret line="77" selection-start-line="77" selection-end-line="77" />
           <folding>
-            <element signature="e#21#344#0" />
-            <element signature="e#16#46#1" />
-            <element signature="e#467#826#0" />
-            <element signature="e#487#608#0" />
-            <element signature="e#482#549#1" />
-            <element signature="e#1252#1831#0" />
-            <element signature="e#1252#1282#1" />
+            <element signature="e#38#107#0" />
+            <element signature="e#164#594#0" />
+            <element signature="e#159#249#1" />
+            <element signature="e#647#1230#0" />
+            <element signature="e#647#915#1" />
+            <element signature="e#1734#1824#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curso-aula_em_video/ex115a/code_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="102" selection-start-line="3" selection-start-column="102" selection-end-line="3" selection-end-column="102" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
