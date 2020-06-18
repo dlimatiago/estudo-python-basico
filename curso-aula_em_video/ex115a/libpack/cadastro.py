@@ -12,17 +12,24 @@ def leiaint(msg):
             return integer
 
 
-def cadastrar(nome='', idade=0):
+def cadastrar(arquivo, nome='desconhecido', idade=0):
     """
     --> Cadastra o nome e a idade de uma pessoa em um arquivo.
+    :type arquivo: object Nome do arquivo a ser alocado os dados
     :param nome: Nome da pessoa que se deseja escrever no arquivo
-    :param idade: Idade da pessoa que deseja escrever no arquivo
+    :param idade: Idade da pessoa que deseja escrever no arquivo 
     :return: Sem retorno
     """
-    cadastro = open('cadastrados.txt', 'a')  # Abrindo o arquivo para colocar o nome e idade
-    pessoa = f'{nome}\t{idade}\n'
-    cadastro.write(pessoa)
-    cadastro.close()
+    try:
+        cadastro = open(arquivo, 'a')  # Abrindo o arquivo para colocar o nome e idade
+    except:
+        print('Erro ao tentar abrir o arquivo!')
+    else:
+        pessoa = f'{nome}\t{idade}\n'
+        cadastro.write(pessoa)
+        print(f'Registro de {nome} adicionado com sucesso!')
+    finally:
+        cadastro.close()
 
 
 def mostrar_cadastros():
@@ -31,33 +38,35 @@ def mostrar_cadastros():
     contido em um dicionario
     :return: Sem retorno
     """
-    import visual as v
+    import libpack.visual as v
 
-    ler = open("C:/Users/Tiago/Documents/curso-python/curso-aula_em_video/ex115a/cadastrados.txt")
+    try:
+        ler = open("C:/Users/tiago/PycharmProjects/estudo-python-basico/curso-aula_em_video/ex115a/cadastrados.txt")
+    except Exception:
+        print(f'O erro {Exception.__cause__} foi encontado')
+    else:
+        pessoa, cad = dict(), list()
+        cont, ver = 1, False
+        todo, idade = '', ''
 
-    pessoa, cad = dict(), list()
-    cont, ver = 1, False
-    todo, idade = '', ''
+        nome = ler.readlines()  # Uma lista formada com o conteudo de cada linha do doc (com \t e \n)
+        for i in nome:
+            i = i.split()
+            # É gerado uma lista com as partes de cada pessoa: Nome sobrenome e idade
+            # É verificado para se separar o nome da idade e colocar em um dicionário.
+            for n in i:
+                if n.isalpha():
+                    todo += n + ' '
+                elif n.isnumeric():
+                    idade += n
+                    cont += 1
+                    ver = True if cont == 2 else False
+                if ver is True:
+                    pessoa['Pessoa'] = todo
+                    pessoa['Idade'] = idade
+                    cad.append(pessoa.copy())
+                    todo, idade = '', ''
+                    cont, ver = 1, False
+        ler.close()
 
-    nome = ler.readlines()  # Uma lista formada com o conteudo de cada linha do doc (com \t e \n)
-    for i in nome:
-        i = i.split()
-        # É gerado uma lista com as partes de cada pessoa: Nome sobrenome e idade
-        # É verificado para se separar o nome da idade e colocar em um dicionário.
-        for n in i:
-            if n.isalpha():
-                todo += n + ' '
-            elif n.isnumeric():
-                idade += n
-                cont += 1
-                ver = True if cont == 2 else False
-            if ver is True:
-                pessoa['Pessoa'] = todo
-                pessoa['Idade'] = idade
-                cad.append(pessoa.copy())
-                todo, idade = '', ''
-                cont, ver = 1, False
-    ler.close()
-
-
-mostrar_cadastros()
+        v.tabela(cad, 'Cadastrados')

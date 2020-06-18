@@ -52,12 +52,11 @@ def cores(texto='', cor='close'):
     return txt
 
 
-def tabela(lista, ind, tit='Tabela', cor_t='close', d=10):
+def tabela(lista, tit='Tabela', cor_t='close', d=10):
     """
     --> Função que cria uma tabela dado um lista ( com dicionários ou listas dentro),
     o título e a cor
     :param lista: Lista passada contendo os valores
-    :param ind: Indices da tabela passados em forma de tuple.
     :param tit: Titulo da tabela
     :param cor_t: Cor do título da tabela
     Cores: red, green, yellow, blue, magenta, ciano, close(default)
@@ -66,13 +65,7 @@ def tabela(lista, ind, tit='Tabela', cor_t='close', d=10):
     """
     #  Essa geradora  converte para lista o item dentro da lista, caso seja um dict, set ou tuple
     valores = [list(i.values()) if type(i) is dict else i for i in lista]
-    indices = ind
 
     titulo(tit, cor_t)
-    for i in indices:
-        print(f'{i:6}', end='\t\t\t\t\t')
-    print()
     for val in valores:
-        print(f'{val[0]:6} {"•"*d} {val[1]:3} anos')
-
-
+        print(f'{val[0]:<30}{val[1]:>3} anos')
